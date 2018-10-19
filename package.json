@@ -1,0 +1,19 @@
+{
+  "name": "almundo-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toblich/almundo-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toblich/almundo-challenge/issues"
+  },
+  "homepage": "https://github.com/toblich/almundo-challenge#readme"
+}
