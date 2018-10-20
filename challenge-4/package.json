@@ -1,0 +1,11 @@
+{
+  "name": "needy-place",
+  "version": "1.0.0",
+  "description": "Needy-place package for Almundo challenge at NodeConfAR18",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Lichtig",
+  "license": "ISC"
+}
